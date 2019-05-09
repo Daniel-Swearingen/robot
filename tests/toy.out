@@ -1,0 +1,394 @@
+iter = 0, point = 0
+network[0][0].a = 0.900000000000
+network[0][1].a = 0.900000000000
+network[1][0].a = 0.613014176139
+network[1][1].a = 0.391740969253
+
+network[2][0].a = 0.503778436291
+network[2][1].a = 0.502327840998
+network[2][2].a = 0.511566135348
+network[2][3].a = 0.502245957671
+network[2][4].a = 0.524108928130
+network[2][5].a = 0.500287267900
+network[2][6].a = 0.491092997648
+network[2][7].a = 0.505691838608
+network[2][8].a = 0.517564097187
+network[2][9].a = 0.482837811218
+
+a_j = 0.503778436291
+network[2][0].delta = -0.100938844497
+a_j = 0.502327840998
+network[2][1].delta = 0.099415884827
+a_j = 0.511566135348
+network[2][2].delta = 0.097056503234
+a_j = 0.502245957671
+network[2][3].delta = -0.100559460358
+a_j = 0.524108928130
+network[2][4].delta = 0.093754284885
+a_j = 0.500287267900
+network[2][5].delta = 0.099928150040
+a_j = 0.491092997648
+network[2][6].delta = -0.097742222170
+a_j = 0.505691838608
+network[2][7].delta = 0.098564265936
+a_j = 0.517564097187
+network[2][8].delta = 0.095490995180
+a_j = 0.482837811218
+network[2][9].delta = -0.095596691478
+Step 4 is done
+network[1][0].delta = 0.011480476106
+network[1][1].delta = -0.000246705766
+Step 5 is done
+Weights from node i to j
+weight from layer 0, node 0 to next layer node 0 = 0.200103324285
+weight from layer 0, node 0 to next layer node 1 = -0.100002220352
+
+weight from layer 0, node 1 to next layer node 0 = 0.300103324285
+weight from layer 0, node 1 to next layer node 1 = -0.400002220352
+
+
+weight from layer 1, node 0 to next layer node 0 = -0.030618769426
+weight from layer 1, node 0 to next layer node 1 = 0.050609433467
+weight from layer 1, node 0 to next layer node 2 = 0.040594970124
+weight from layer 1, node 0 to next layer node 3 = -0.040616443747
+weight from layer 1, node 0 to next layer node 4 = 0.090574727057
+weight from layer 1, node 0 to next layer node 5 = -0.039387426274
+weight from layer 1, node 0 to next layer node 6 = -0.100599173678
+weight from layer 1, node 0 to next layer node 7 = 0.040604212923
+weight from layer 1, node 0 to next layer node 8 = 0.060585373337
+weight from layer 1, node 0 to next layer node 9 = -0.090586021271
+
+weight from layer 1, node 1 to next layer node 0 = 0.059604581192
+weight from layer 1, node 1 to next layer node 1 = -0.079610547249
+weight from layer 1, node 1 to next layer node 2 = 0.030380210086
+weight from layer 1, node 1 to next layer node 3 = 0.059606067395
+weight from layer 1, node 1 to next layer node 4 = 0.080367273944
+weight from layer 1, node 1 to next layer node 5 = 0.040391459504
+weight from layer 1, node 1 to next layer node 6 = 0.039617103672
+weight from layer 1, node 1 to next layer node 7 = -0.029613883389
+weight from layer 1, node 1 to next layer node 8 = 0.060374077350
+weight from layer 1, node 1 to next layer node 9 = -0.060374491406
+
+
+layer= 1, w0 of node 0 is = 0.010114804761
+layer= 1, w0 of node 1 is = 0.009997532942
+layer= 2, w0 of node 0 is = 0.008990611555
+layer= 2, w0 of node 1 is = 0.010994158848
+layer= 2, w0 of node 2 is = 0.010970565032
+layer= 2, w0 of node 3 is = 0.008994405396
+layer= 2, w0 of node 4 is = 0.010937542849
+layer= 2, w0 of node 5 is = 0.010999281500
+layer= 2, w0 of node 6 is = 0.009022577778
+layer= 2, w0 of node 7 is = 0.010985642659
+layer= 2, w0 of node 8 is = 0.010954909952
+layer= 2, w0 of node 9 is = 0.009044033085
+iter = 0, point = 1
+network[0][0].a = 0.900000000000
+network[0][1].a = 0.100000000000
+network[1][0].a = 0.554833112171
+network[1][1].a = 0.470034780592
+
+network[2][0].a = 0.505004465543
+network[2][1].a = 0.500413555459
+network[2][2].a = 0.511941167451
+network[2][3].a = 0.503618932383
+network[2][4].a = 0.524721529149
+network[2][5].a = 0.502032794801
+network[2][6].a = 0.492957526213
+network[2][7].a = 0.504898505594
+network[2][8].a = 0.518228816569
+network[2][9].a = 0.482608468418
+
+a_j = 0.505004465543
+network[2][0].delta = 0.098738991079
+a_j = 0.500413555459
+network[2][1].delta = -0.100103320383
+a_j = 0.511941167451
+network[2][2].delta = 0.096959374254
+a_j = 0.503618932383
+network[2][3].delta = 0.099090075632
+a_j = 0.524721529149
+network[2][4].delta = -0.105920812024
+a_j = 0.502032794801
+network[2][5].delta = 0.099490156798
+a_j = 0.492957526213
+network[2][6].delta = 0.101740430590
+a_j = 0.504898505594
+network[2][7].delta = -0.101214910714
+a_j = 0.518228816569
+network[2][8].delta = 0.095315937205
+a_j = 0.482608468418
+network[2][9].delta = 0.104221636411
+Step 4 is done
+network[1][0].delta = -0.009806005420
+network[1][1].delta = 0.006153541211
+Step 5 is done
+Weights from node i to j
+weight from layer 0, node 0 to next layer node 0 = 0.200015070236
+weight from layer 0, node 0 to next layer node 1 = -0.099946838481
+
+weight from layer 0, node 1 to next layer node 0 = 0.300093518280
+weight from layer 0, node 1 to next layer node 1 = -0.399996066811
+
+
+weight from layer 1, node 0 to next layer node 0 = -0.030070932809
+weight from layer 1, node 0 to next layer node 1 = 0.050054027099
+weight from layer 1, node 0 to next layer node 2 = 0.041132932837
+weight from layer 1, node 0 to next layer node 3 = -0.040066659197
+weight from layer 1, node 0 to next layer node 4 = 0.089987043319
+weight from layer 1, node 0 to next layer node 5 = -0.038835421941
+weight from layer 1, node 0 to next layer node 6 = -0.100034684081
+weight from layer 1, node 0 to next layer node 7 = 0.040042639084
+weight from layer 1, node 0 to next layer node 8 = 0.061114217718
+weight from layer 1, node 0 to next layer node 9 = -0.090007765122
+
+weight from layer 1, node 1 to next layer node 0 = 0.060068688792
+weight from layer 1, node 1 to next layer node 1 = -0.080081067672
+weight from layer 1, node 1 to next layer node 2 = 0.030835952869
+weight from layer 1, node 1 to next layer node 3 = 0.060071825215
+weight from layer 1, node 1 to next layer node 4 = 0.079869409288
+weight from layer 1, node 1 to next layer node 5 = 0.040859097844
+weight from layer 1, node 1 to next layer node 6 = 0.040095319081
+weight from layer 1, node 1 to next layer node 7 = -0.030089628673
+weight from layer 1, node 1 to next layer node 8 = 0.060822095406
+weight from layer 1, node 1 to next layer node 9 = -0.059884613466
+
+
+layer= 1, w0 of node 0 is = 0.010016744707
+layer= 1, w0 of node 1 is = 0.010059068354
+layer= 2, w0 of node 0 is = 0.009978001466
+layer= 2, w0 of node 1 is = 0.009993125644
+layer= 2, w0 of node 2 is = 0.011940158775
+layer= 2, w0 of node 3 is = 0.009985306153
+layer= 2, w0 of node 4 is = 0.009878334729
+layer= 2, w0 of node 5 is = 0.011994183068
+layer= 2, w0 of node 6 is = 0.010039982084
+layer= 2, w0 of node 7 is = 0.009973493552
+layer= 2, w0 of node 8 is = 0.011908069324
+layer= 2, w0 of node 9 is = 0.010086249449
+iter = 1, point = 0
+network[0][0].a = 0.900000000000
+network[0][1].a = 0.900000000000
+network[1][0].a = 0.613041332291
+network[1][1].a = 0.391767288448
+
+network[2][0].a = 0.503768984632
+network[2][1].a = 0.502326275806
+network[2][2].a = 0.512306729956
+network[2][3].a = 0.502239226053
+network[2][4].a = 0.524064975411
+network[2][5].a = 0.501048429021
+network[2][6].a = 0.491106593178
+network[2][7].a = 0.505683043786
+network[2][8].a = 0.518292262028
+network[2][9].a = 0.482868442794
+
+a_j = 0.503768984632
+network[2][0].delta = -0.100936510521
+a_j = 0.502326275806
+network[2][1].delta = 0.099416279014
+a_j = 0.512306729956
+network[2][2].delta = 0.096864599193
+a_j = 0.502239226053
+network[2][3].delta = -0.100557789632
+a_j = 0.524064975411
+network[2][4].delta = 0.093766043512
+a_j = 0.501048429021
+network[2][5].delta = 0.099737454216
+a_j = 0.491106593178
+network[2][6].delta = -0.097745714624
+a_j = 0.505683043786
+network[2][7].delta = 0.098566503804
+a_j = 0.518292262028
+network[2][8].delta = 0.095299212469
+a_j = 0.482868442794
+network[2][9].delta = -0.095604742543
+Step 4 is done
+network[1][0].delta = 0.011562964847
+network[1][1].delta = -0.000209087753
+Step 5 is done
+Weights from node i to j
+weight from layer 0, node 0 to next layer node 0 = 0.200119136920
+weight from layer 0, node 0 to next layer node 1 = -0.099948720271
+
+weight from layer 0, node 1 to next layer node 0 = 0.300197584963
+weight from layer 0, node 1 to next layer node 1 = -0.399997948600
+
+
+weight from layer 1, node 0 to next layer node 0 = -0.030689715338
+weight from layer 1, node 0 to next layer node 1 = 0.050663489981
+weight from layer 1, node 0 to next layer node 2 = 0.041726752867
+weight from layer 1, node 0 to next layer node 3 = -0.040683120010
+weight from layer 1, node 0 to next layer node 4 = 0.090561867922
+weight from layer 1, node 0 to next layer node 5 = -0.038223990123
+weight from layer 1, node 0 to next layer node 6 = -0.100633905712
+weight from layer 1, node 0 to next layer node 7 = 0.040646892492
+weight from layer 1, node 0 to next layer node 8 = 0.061698441280
+weight from layer 1, node 0 to next layer node 9 = -0.090593861709
+
+weight from layer 1, node 1 to next layer node 0 = 0.059673252562
+weight from layer 1, node 1 to next layer node 1 = -0.079691587211
+weight from layer 1, node 1 to next layer node 2 = 0.031215436682
+weight from layer 1, node 1 to next layer node 3 = 0.059677872689
+weight from layer 1, node 1 to next layer node 4 = 0.080236753974
+weight from layer 1, node 1 to next layer node 5 = 0.041249836564
+weight from layer 1, node 1 to next layer node 6 = 0.039712383345
+weight from layer 1, node 1 to next layer node 7 = -0.029703477354
+weight from layer 1, node 1 to next layer node 8 = 0.061195446547
+weight from layer 1, node 1 to next layer node 9 = -0.060259161573
+
+
+layer= 1, w0 of node 0 is = 0.010132374355
+layer= 1, w0 of node 1 is = 0.010056977477
+layer= 2, w0 of node 0 is = 0.008968636361
+layer= 2, w0 of node 1 is = 0.010987288435
+layer= 2, w0 of node 2 is = 0.012908804767
+layer= 2, w0 of node 3 is = 0.008979728256
+layer= 2, w0 of node 4 is = 0.010815995164
+layer= 2, w0 of node 5 is = 0.012991557611
+layer= 2, w0 of node 6 is = 0.009062524938
+layer= 2, w0 of node 7 is = 0.010959158590
+layer= 2, w0 of node 8 is = 0.012861061449
+layer= 2, w0 of node 9 is = 0.009130202024
+iter = 1, point = 1
+network[0][0].a = 0.900000000000
+network[0][1].a = 0.100000000000
+network[1][0].a = 0.554843294950
+network[1][1].a = 0.470061689130
+
+network[2][0].a = 0.504997524440
+network[2][1].a = 0.500409405922
+network[2][2].a = 0.512680728864
+network[2][3].a = 0.503614750407
+network[2][4].a = 0.524674905674
+network[2][5].a = 0.502793271150
+network[2][6].a = 0.492973899299
+network[2][7].a = 0.504887181257
+network[2][8].a = 0.518955826184
+network[2][9].a = 0.482641799084
+
+a_j = 0.504997524440
+network[2][0].delta = 0.098740753604
+a_j = 0.500409405922
+network[2][1].delta = -0.100102284367
+a_j = 0.512680728864
+network[2][2].delta = 0.096767536503
+a_j = 0.503614750407
+network[2][3].delta = 0.099091133062
+a_j = 0.524674905674
+network[2][4].delta = -0.105910162690
+a_j = 0.502793271150
+network[2][5].delta = 0.099298583061
+a_j = 0.492973899299
+network[2][6].delta = 0.101736431888
+a_j = 0.504887181257
+network[2][7].delta = -0.101212124770
+a_j = 0.518955826184
+network[2][8].delta = 0.095124125386
+a_j = 0.482641799084
+network[2][9].delta = 0.104213797223
+Step 4 is done
+network[1][0].delta = -0.009733128582
+network[1][1].delta = 0.006225031395
+Step 5 is done
+Weights from node i to j
+weight from layer 0, node 0 to next layer node 0 = 0.200031538763
+weight from layer 0, node 0 to next layer node 1 = -0.099892694988
+
+weight from layer 0, node 1 to next layer node 0 = 0.300187851835
+weight from layer 0, node 1 to next layer node 1 = -0.399991723569
+
+
+weight from layer 1, node 0 to next layer node 0 = -0.030141858887
+weight from layer 1, node 0 to next layer node 1 = 0.050108079168
+weight from layer 1, node 0 to next layer node 2 = 0.042263661055
+weight from layer 1, node 0 to next layer node 3 = -0.040133319503
+weight from layer 1, node 0 to next layer node 4 = 0.089974232485
+weight from layer 1, node 0 to next layer node 5 = -0.037673038593
+weight from layer 1, node 0 to next layer node 6 = -0.100069427941
+weight from layer 1, node 0 to next layer node 7 = 0.040085323804
+weight from layer 1, node 0 to next layer node 8 = 0.062226231112
+weight from layer 1, node 0 to next layer node 9 = -0.090015638443
+
+weight from layer 1, node 1 to next layer node 0 = 0.060137395016
+weight from layer 1, node 1 to next layer node 1 = -0.080162129700
+weight from layer 1, node 1 to next layer node 2 = 0.031670303799
+weight from layer 1, node 1 to next layer node 3 = 0.060143662143
+weight from layer 1, node 1 to next layer node 4 = 0.079738910874
+weight from layer 1, node 1 to next layer node 5 = 0.041716601161
+weight from layer 1, node 1 to next layer node 6 = 0.040190607336
+weight from layer 1, node 1 to next layer node 7 = -0.030179236777
+weight from layer 1, node 1 to next layer node 8 = 0.061642588618
+weight from layer 1, node 1 to next layer node 9 = -0.059769292438
+
+
+layer= 1, w0 of node 0 is = 0.010035043070
+layer= 1, w0 of node 1 is = 0.010119227791
+layer= 2, w0 of node 0 is = 0.009956043897
+layer= 2, w0 of node 1 is = 0.009986265591
+layer= 2, w0 of node 2 is = 0.013876480132
+layer= 2, w0 of node 3 is = 0.009970639587
+layer= 2, w0 of node 4 is = 0.009756893537
+layer= 2, w0 of node 5 is = 0.013984543441
+layer= 2, w0 of node 6 is = 0.010079889257
+layer= 2, w0 of node 7 is = 0.009947037343
+layer= 2, w0 of node 8 is = 0.013812302702
+layer= 2, w0 of node 9 is = 0.010172339996
+end of Learning
+0.200031538763 -0.099892694988 
+CLASSIFY
+point = 0
+network[0][0].a = 0.900000000000
+network[0][1].a = 0.900000000000
+network[1][0].a = 0.613069328873
+network[1][1].a = 0.391794166805
+network[2][0].a = 0.503759547965
+network[2][1].a = 0.502324717559
+network[2][2].a = 0.513045857033
+network[2][3].a = 0.502232502247
+network[2][4].a = 0.524021137624
+network[2][5].a = 0.501808162105
+network[2][6].a = 0.491120143203
+network[2][7].a = 0.505674274130
+network[2][8].a = 0.519018945085
+network[2][9].a = 0.482898986022
+distance 1.238077010684
+distance 1.271239160892
+distance 1.272404629055
+distance 1.272378556665
+distance 1.245284458572
+distance 1.258623549702
+distance 1.259774355645
+distance 1.292379877180
+distance 1.258597191831
+distance 1.264100938501
+point = 0, is classified as 0
+point = 1
+network[0][0].a = 0.900000000000
+network[0][1].a = 0.100000000000
+network[1][0].a = 0.554799541598
+network[1][1].a = 0.470089911572
+network[2][0].a = 0.505375627141
+network[2][1].a = 0.500025699120
+network[2][2].a = 0.513050093017
+network[2][3].a = 0.503994320312
+network[2][4].a = 0.524270663845
+network[2][5].a = 0.503173485448
+network[2][6].a = 0.493364043557
+network[2][7].a = 0.504499728983
+network[2][8].a = 0.519318614767
+network[2][9].a = 0.483040199713
+distance 1.240438690665
+distance 1.267881377440
+distance 1.272130869570
+distance 1.271918355948
+distance 1.244867492351
+distance 1.259087978472
+distance 1.263153060587
+distance 1.290112668115
+distance 1.258873263048
+distance 1.266232029341
+point = 1, is classified as 0
+0
+0
+0.500000000000
